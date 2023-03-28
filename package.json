@@ -2,7 +2,7 @@
   "name": "TSMongoTest",
   "version": "1.0.0",
   "description": "CKs Express Mongo Test on Render",
-  "main": "testmongo.js",
+  "main": "testmongo2.js",
   "repository": "https://github.com/Tsmith05252/MongoRender",
   "author": "CK",
   "license": "MIT",
